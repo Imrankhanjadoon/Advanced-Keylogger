@@ -72,5 +72,6 @@ A simple yet professional Python keylogger built for \*\*educational and portfol
 
 
 
-Made with ❤️ for learning | Imran | Rawalpindi
+Made with ❤️ for learning | Imran 
+
 
